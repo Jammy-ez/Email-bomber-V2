@@ -63,7 +63,7 @@ if modulechoose == '2':
     message1 = input("[+] Enter message: ")
     times1 = int(input("[+] Enter ammount of times: "))
     bomb("smtp.mail.outlook.com", sender_email1, receiver_email1, message1, times1, password1)
-if modulechoose == '2':
+if modulechoose == '3':
     sender_email1 = input("[+] Enter your email: ")
     password1 = input("[+] Enter your password: ")
     receiver_email1 = input("[+] Enter receiver email: ")
